@@ -20,4 +20,4 @@ Instructions
 
 ![plot](./Images/2_encoder_assembled.jpg)
 
-![plot](./Images/3_display_assembled.jpg)
+![plot](./Images/3_display_assembled.jpeg)
