@@ -16,8 +16,8 @@ Instructions
 
 - soon
 
-![plot](./Images/1_board_assembled.png)
+![plot](./Images/1_board_assembled.jpg)
 
-![plot](./Images/2_encoder_assembled.png)
+![plot](./Images/2_encoder_assembled.jpg)
 
-![plot](./Images/3_display_assembled.png)
+![plot](./Images/3_display_assembled.jpg)
