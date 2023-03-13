@@ -42,3 +42,7 @@ Put the display in place
 
 Put the front enclosure in place and fix it with M3 screws and Nuts
 
+Flash the firmware and enjoy!
+
+![plot](./Images/4_finished.png)
+
